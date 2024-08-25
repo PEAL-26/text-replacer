@@ -1,6 +1,6 @@
-# TextReplacer
+# TextLineReplacer
 
-TextReplacer é uma ferramenta simples que permite substituir automaticamente o conteúdo de linhas em arquivos, começando de um termo de busca até o final da linha. A ferramenta processa todos os arquivos com extensões especificadas dentro de um diretório e seus subdiretórios.
+TextLineReplacer é uma ferramenta simples que permite substituir automaticamente o conteúdo de linhas em arquivos, começando de um termo de busca até o final da linha. A ferramenta processa todos os arquivos com extensões especificadas dentro de um diretório e seus subdiretórios.
 
 ## Funcionalidades
 
