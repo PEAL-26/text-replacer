@@ -1,6 +1,6 @@
 {
   "name": "text-line-replacer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Substituição automática de linhas em arquivos por termo de busca",
   "main": "index.js",
   "scripts": {
